@@ -1,13 +1,13 @@
 ### 문제 01번 : Git Hub에서 비어있는 원격 저장소를 생성하세요.
-![ex_screenshot](./)
+![ex_screenshot](./resoure/1번-문제.gif)
 Git Hub 사이트에서 간단하게 생성이 가능합니다.
 
 ### 문제 02번 : git init와 git push 명령어를 실행하세요.
-![ex_screenshot](./)
+![ex_screenshot](./resoure/2번-문제.gif)
 main.class를 생성하고 01번 문제에서 생성한 원격 저장소와 연동합니다.
 
 ### 문제 03번 : 로컬 저장소에서 브랜치를 생성하고, 생성한 브랜치를 원격 저장소에 적용하세요
-![ex_screenshot](./)
+![ex_screenshot](./resoure/3번-문제.gif))
 로컬 저장소에서 subMain branch를 생성하고, 생성한 branch를 원격 저장소에 적용합니다.
 
 ### 문제 04번 : fast-foward merge를 수행하세요
