@@ -31,5 +31,5 @@ main branch에서 main.class를 생성하고 subMain2 branch를 생성한 뒤 ma
 ![ex_screenshot](./resource/9번-문제.gif)
 
 ### 문제 10번 : 팀장은 원격 저장소와 팀원들의 branch를 만들고, pull request를 받아서 main으로 merge한후 팀원의 branch를 삭제하세요. (STS4를 사용하세요)
-![ex_screenshot](./resource/10번 문제_1.gif)
-![ex_screenshot](./resource/10번 문제_2.gif)
+![ex_screenshot](./resource/10번-문제_1.gif)
+![ex_screenshot](./resource/10번-문제_2.gif)
